@@ -2,12 +2,12 @@ HexBinPlots
 
 ![](LSTdayautocor.jpeg) 
 
-![](image_taxa.png) 
+![](LSTdayspatialtempautocor.jpeg) 
 
-![](image_taxa.png) 
+![](LStnightspatialtempautocor.jpeg) 
 
-![](image_taxa.png) 
+![](LStnightautocor.jpeg) 
 
-![](image_taxa.png) 
+![](NDVIautocor.jpeg) 
 
-![](image_taxa.png) 
+![](NDVIspattempautocor.jpeg) 
